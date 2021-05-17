@@ -1,0 +1,415 @@
+.work0 {
+    padding: 50px 0;
+}
+.work__row0 {
+    display: flex;
+    align-items: center;
+
+}
+
+.work__image {
+    flex: 1 0 50%;
+    order: -1;
+}
+
+.image0 {
+    background-image: url("../images/sustainable-materials.jpg");
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: calc(386px + 390*(100vw - 768px)/432);
+}
+
+.work__body {
+    flex: 1 0 50%;
+    padding: 0 0 0 38px;
+}
+
+.work__title0 {
+    margin: 0 0 35px 0;
+    padding: 0 10px;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.work__text0 {
+    font-size: 1rem;
+    line-height: 1.7;
+    font-weight: lighter;
+    padding: 0 10px;
+}
+
+.work__text0 p{
+    margin: 0 0 15px 0;
+}
+
+.work__text0 p:last-child{
+    margin: 0;
+}
+
+.work1 {
+    padding: 50px 0;
+}
+
+.work1__row {
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+
+.work1__image {
+    flex: 1 0 50%;
+}
+
+.image1 {
+    background-image: url("../images/1.jpg");
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: calc(386px + 390*(100vw - 768px)/432);
+}
+
+.work1__body {
+    flex: 1 0 50%;
+    padding: 0 0 0 38px;
+}
+
+.work1__title {
+    margin: 0 0 35px 0;
+    padding: 0 10px;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.work1__text {
+    font-size: 1rem;
+    line-height: 1.7;
+    font-weight: lighter;
+    padding: 0 10px;
+}
+
+.work1__text p{
+    margin: 0 0 15px 0;
+}
+
+.work1__text p:last-child{
+    margin: 0;
+}
+
+
+.work2 {
+    padding: 50px 20px;
+    background-color:#014248;
+}
+
+.work2__row {
+    display: flex;
+    align-items: center;
+}
+
+.work2__image {
+    flex: 1 0 50%;
+}
+
+.image2 {
+    background-image: url("../images/rectory-road-design-build-interior-architecture-1@2x-768x884.jpg");
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: calc(386px + 390*(100vw - 768px)/432);
+
+}
+
+.work2__body {
+    flex: 1 0 50%;
+    padding: 0 0 0 38px;
+}
+
+.work2__title {
+    margin: 0 0 35px 0;
+    color: rgb(255, 255, 255);
+    padding: 0 10px;
+    font-size: 1.5rem;
+}
+
+.work2__text {
+    font-size: 1rem;
+    line-height: 1.7;
+    font-weight: lighter;
+    padding: 0 10px;
+    color: white;
+}
+
+.work2__text p{
+    margin: 0 0 15px 0;
+}
+
+.work2__text p:last-child{
+    margin: 0;
+}
+
+
+.work3 {
+    padding: 50px 20px;
+    background-color:#014248;
+}
+
+.work3__row {
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+
+.work3__image {
+    flex: 1 0 50%;
+}
+
+.image3 {
+    background-image: url("../images/kitchen-2565105_1920.jpg");
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: calc(386px + 390*(100vw - 768px)/432);
+}
+
+.work3__body {
+    flex: 1 0 50%;
+    padding: 0 0 0 38px;
+}
+
+.work3__title {
+    margin: 0 0 35px 0;
+    color: rgb(255, 255, 255);
+    padding: 0 10px;
+    font-size: 1.5rem;
+}
+
+.work3__text {
+    font-size: 1rem;
+    line-height: 1.7;
+    font-weight: lighter;
+    padding: 0 10px;
+    color: white;
+}
+
+.work3__text p{
+    margin: 0 0 15px 0;
+}
+
+.work3__text p:last-child{
+    margin: 0;
+}
+
+
+.work4 {
+    padding: 50px 20px;
+    background-color:#014248;
+}
+
+.work4__row {
+    display: flex;
+    align-items: center;
+}
+
+.work4__image {
+    flex: 1 0 50%;
+}
+
+.image4 {
+    background-image: url("../images/flowerpots-2754775_1280.jpg");
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: calc(386px + 390*(100vw - 768px)/432);
+}
+
+.work4__body {
+    flex: 1 0 50%;
+    padding: 0 0 0 38px;
+}
+
+.work4__title {
+    margin: 0 0 35px 0;
+    color: rgb(255, 255, 255);
+    padding: 0 10px;
+    font-size: 1.5rem;
+}
+
+.work4__text {
+    font-size: 1rem;
+    line-height: 1.7;
+    font-weight: lighter;
+    padding: 0 10px;
+    color: white;
+}
+
+.work4__text p{
+    margin: 0 0 15px 0;
+}
+
+.work4__text p:last-child{
+    margin: 0;
+}
+
+/*----------------------- Stage ------------------------------ */
+
+.stage-cont {
+    background-color:#ffffff;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.stage-cont .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.stage-box {
+    background-color:#014248;
+    border-radius: 10px;
+    width: 300px;
+    margin: 20px 0;
+    margin-right: 10px;
+    padding: 30px;
+    flex: auto;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    transition: .5s;
+}
+
+.stage-box:hover {
+    background-color: var(--white-color);
+}
+
+.stage-box:hover h4,
+.stage-box:hover p {
+    color: var(--primary-color);
+}
+
+.stage-box h4 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+.stage-box p {
+    font-size: 1rem;
+    line-height: 1.7;
+}
+
+
+@media (min-width: 1200px) {
+    .image0, .image1, .image2, .image3, .image4 {
+        min-height: 776px;
+    }
+
+
+    .stage-cont .container {
+        display: flex;
+        justify-content: space-between;
+    }
+
+
+}
+
+
+@media (max-width: 767px) {
+    .work__row0 {
+        flex-direction: column-reverse;
+    }
+
+    .work1__row {
+        flex-direction: column-reverse;
+    }
+
+    .work2__row {
+        flex-direction: column-reverse;
+    }
+
+    .work3__row {
+        flex-direction: column-reverse;
+    }
+
+    .work4__row {
+        flex-direction: column-reverse;
+    }
+
+    .work__image, .work1__image,
+    .work2__image, .work3__image,
+    .work4__image{
+        width: 100%;
+        flex: 1 0 100%;
+    }
+
+    .work__body, .work1__body, .work2__body,
+    .work3__body, .work4__body {
+        padding: 0;
+    }
+
+    .work__title0, .work1__title, .work2__title,
+    .work3__title, .work4__title {
+        padding: 0;
+        font-size: 1.5rem;
+    }
+
+    .work__text0, .work1__text,
+    .work2__text, .work3__text,
+    .work4__text{
+        padding: 0;
+        margin-bottom: 15px;
+    }
+
+    .image0 {
+        background-image: url("../images/sustainable-materials.jpg");
+        width: 100%;
+        min-height: 368px;
+        background-position: 50%;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .image1 {
+        background-image: url("../images/1.jpg");
+        width: 100%;
+        min-height: 368px;
+        background-position: 50%;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .image2 {
+        background-image: url("../images/rectory-road-design-build-interior-architecture-1@2x-768x884.jpg");
+        width: 100%;
+        min-height: 368px;
+        background-position: 50%;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .image3 {
+        background-image: url("../images/kitchen-2565105_1920.jpg");
+        width: 100%;
+        min-height: 368px;
+        background-position: 50%;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .image4 {
+        background-image: url("../images/flowerpots-2754775_1280.jpg");
+        width: 100%;
+        min-height: 368px;
+        background-position: 50%;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
+
+@media (max-width: 500px) {
+    .image0, .image1, .image2, .image3, .image4 {
+        min-height: 368px;
+    }
+}
